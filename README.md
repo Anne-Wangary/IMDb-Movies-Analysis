@@ -1,2 +1,2 @@
 # IMDb-Movies-Analysis
-An analysis of IMDb Movies, findings and insights
+An analysis of IMDb Movies, findings and insights using excel.
